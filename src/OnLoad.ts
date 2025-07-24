@@ -1,4 +1,1 @@
-export const init = () => {
-console.log('sdfi')
-
-}
+export const init = () => {}
